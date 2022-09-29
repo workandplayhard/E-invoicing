@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <g id="Group_223310" data-name="Group 223310" transform="translate(-1537 -767)">
+    <rect id="Rectangle_24735" data-name="Rectangle 24735" width="50" height="50" transform="translate(1537 767)" fill="none" opacity="0"/>
+    <g id="Paper_Plus" data-name="Paper Plus" transform="translate(1540.75 767)">
+      <path id="Fill_3" data-name="Fill 3" d="M38.272,17.552c-1.129,0-2.624-.025-4.485-.025a8.341,8.341,0,0,1-8.273-8.34V1.148A1.141,1.141,0,0,0,24.383,0H11.159A11.223,11.223,0,0,0,0,11.272V38.21A11.731,11.731,0,0,0,11.674,50H31.363A11.19,11.19,0,0,0,42.5,38.755V18.677a1.134,1.134,0,0,0-1.134-1.145c-1.055.007-2.324.02-3.094.02" fill="#339dff" opacity="0.4"/>
+      <path id="Fill_1" data-name="Fill 1" d="M2.053.369A1.193,1.193,0,0,0,0,1.2V7.8a5.066,5.066,0,0,0,5.04,5.04c1.745.02,4.165.025,6.22.02a1.192,1.192,0,0,0,.858-2.02C9.48,8.094,4.758,3.179,2.053.369" transform="translate(29.408 1.05)" fill="#339dff" opacity="0.4"/>
+      <g id="Search_results_for_Edit_-_Flaticon-2" data-name="Search results for Edit - Flaticon-2" transform="translate(12.001 13.5)">
+        <g id="Group_224645" data-name="Group 224645" transform="translate(0 5.41)">
+          <g id="Group_224644" data-name="Group 224644">
+            <path id="Path_279765" data-name="Path 279765" d="M14.378,45.794a.9.9,0,0,0-.9.9v2.823a.9.9,0,0,1-.9.9H2.7a.9.9,0,0,1-.9-.9V37.834a.9.9,0,0,1,.9-.9H7.917a.9.9,0,1,0,0-1.8H2.7a2.7,2.7,0,0,0-2.7,2.7V49.516a2.7,2.7,0,0,0,2.7,2.7H12.58a2.7,2.7,0,0,0,2.7-2.7V46.693A.9.9,0,0,0,14.378,45.794Z" transform="translate(0 -35.138)" fill="#339dff"/>
+          </g>
+        </g>
+        <g id="Group_224647" data-name="Group 224647" transform="translate(5.176 4.296)">
+          <g id="Group_224646" data-name="Group 224646" transform="translate(0 0)">
+            <path id="Path_279766" data-name="Path 279766" d="M155.582,5.3a3.459,3.459,0,0,0-4.857-.008l-6.084,6.084a4.69,4.69,0,0,0-1.377,3.33v2.013a.9.9,0,0,0,.9.9h2.013a4.69,4.69,0,0,0,3.331-1.378l6.075-6.075A3.446,3.446,0,0,0,155.582,5.3Zm-7.344,9.668a2.9,2.9,0,0,1-2.061.852h-1.114V14.7a2.9,2.9,0,0,1,.851-2.061l4.01-4.01,2.324,2.324Zm6.074-6.074-.793.793L151.194,7.36l.793-.793a1.643,1.643,0,0,1,2.324,2.324Z" transform="translate(-143.265 -4.296)" fill="#339dff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

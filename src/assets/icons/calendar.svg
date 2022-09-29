@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 14">
+  <g id="calendar" transform="translate(0.5 0.5)">
+    <rect id="Rectangle" width="11" height="11.671" rx="2" transform="translate(0 1.329)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path" d="M.722,0V2.658" transform="translate(7.222)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path-2" data-name="Path" d="M.722,0V2.658" transform="translate(2.333)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path-3" data-name="Path" d="M0,.725H11" transform="translate(0 4.475)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,238 @@
+{
+  "sign_in": "Sign in",
+  "welcome_in": "You are welcome in",
+  "electronic_billing": "Electronic Billing",
+  "breadcrumb_home_screen":"Main Screen",
+
+  "register_page_title": "Create an account",
+  "register_page_tax_number": "Tax Number",
+  "register_page_user_name": "User Name",
+  "register_page_password": "Password",
+  "register_page_have_account": "Do you have an account?",
+
+  "login_page_sign_in": "Sign in",
+  "login_page_tax_number":"Tax Number",
+  "login_page_user_name": "User Name",
+  "login_page_password": "Password",
+  "login_page_remember_me": "remember me",
+  "login_page_forgot_password": "Forgot your password?",
+  "login_page_not_have_account": "Don't have an account?",
+  "login_page_create_account": "Create an account",
+
+  "header_orders": "Orders",
+  "header_electronic_services": "Electronic Services",
+  "header_main": "Main",
+  "header_account_admin": "Account-Admin",
+
+
+  "home_electronic_bills": "Electronic Bills",
+  "home_create_modify_invoice": "Create/Modify Invoice",
+  "home_view_bills": "View Invoices",
+  "home_connect_devices": "Connect Devices",
+  "home_add_user": "Add user",
+
+  "devices_connect_devices":"Connect Devices",
+  "devices_no_devices":"Don't have any devices yet",
+  "devices_create":"Create",
+
+  "devices_columns_activityNumber":"Activity Number",
+  "devices_column_secretKey":"Secret Key",
+  "devices_column_clientId":"Client Id",
+  "devices_column_enabled":"Enabled",
+  "devices_column_name":"Name",
+
+
+  "users_add_user":"Add user",
+  "users_no_subAdmin":"don't have sub-admins yet",
+
+  "users_columns_action":"Action",
+  "users_columns_activityNumber":"Activity Number",
+  "users_column_notes":"Notes",
+  "users_column_password":"Password",
+  "users_column_enabled":"Enabled",
+  "users_column_username":"User Name",
+
+
+  "usersmodal_add_user":"Add user",
+  "usersmodal_user_name":"User Name",
+  "usersmodal_password":"Password",
+  "usersmodal_notes":"Track name",
+  "usersmodal_activity_number":"Activity Number",
+  "usersmodal_cancel":"Cancel",
+  "usersmodal_add":"Add",
+
+  "otpmodal_verification_code":"Verification code",
+  "otpmodal_sent":"An OTP code has been sent to the phone number",
+  "otpmodal_enter":"Please enter the OTP you received to verify the validity of creating a new user",
+  "otpmodal_confirm":"Confirm",
+
+
+  "invoices_no_invoices": "you dont have any invoices yet",
+  "invoices_view_invoices":"View bills",
+  "invoices_total":"The Total",
+  "invoices_notifications_issued":"All Notifications Issued",
+  "invoices_invoices_issued":"All Invoices Issued",
+  "invoices_invoices_issued_year":"Invoices Issued for this year",
+  
+  "invoices_columns_action":"Action",
+  "invoices_column_status":"Status",
+  "invoices_column_value":"Value",
+  "invoices_column_issueDate":"Issue Date",
+  "invoices_column_invoiceNumber":"Serial Number",
+  "invoices_column_noteType":"Notice Type",
+  "invoices_column_sequencetype":"Input source sequence",
+  "invoices_column_username":"User Name",
+  "invoices_column_invoiceType":"Invoice Type",
+
+  "newInvoice_routeName":"New Invoice (Not Registered)",
+  "newInvoice_invoiceData":"Invoice data",
+  "newInvoice_invoice_issueDate":"Invoice Issue Date",
+  "newInvoice_serialNumber":"Serial Number",
+  "newInvoice_vendor_invoiceNumber":"Vendor invoice number",
+  
+  "newInvoice_sellerData":"Seller Data",
+  "newInvoice_sales_sequenceNumber":"Sales sequence number",
+  "newInvoice_sales_Input_source_sequence":"Input source sequence",
+  "newInvoice_taxNumber":"Tax Number",
+  "newInvoice_name":"Name",
+  "newInvoice_postalCode":"Postal code",
+  "newInvoice_phone_number":"Phone Number",
+  "newInvoice_city":"City",
+  "newInvoice_Country":"Country",
+  "newInvoice_buildingNumber":"building number",
+  "newInvoice_streetName":"Street name",
+  "newInvoice_governorate":"Governorate",
+
+  "newInvoice_buyerData":"Buyer Data",
+  "newInvoice_buyerIDNumber":"Additional ID number for the buyer",
+  "newInvoice_buyerIDType":"Additional Buyer ID Type",
+
+  "newInvoice_vendorIDNumber":"Additional Vendor ID Number",
+  "newInvoice_vendorIdentifierType":"Additional Vendor Identifier Type",
+
+  "newInvoice_serviceOrcommodity":"Information or data of the service or commodity",
+  "newInvoice_general_tax_rate":"General Tax Rate",
+  "newInvoice_discount_value":"Discount Value",
+
+  "newInvoice_discountsOrRebates_invoice":"Amount of discounts or rebates for the invoice",
+  "newInvoice_discountsOrRebates_item":"Amount of discounts or rebates for the item",
+  "newInvoice_unitPrice":"Unit Price",
+  "newInvoice_quantity":"Quantity",
+  "newInvoice_description_goodOrService":"Description of the good or service",
+  "newInvoice_type":"Type",
+
+  "newInvoice_addItem":"Add",
+  "newInvoice_totalInvoiceAmount":"Total invoice value (excluding general tax)",
+  "newInvoice_Total_general_tax_amount":"Total general tax amount",
+  "newInvoice_total_bill":"Total Bill",
+  "newInvoice_notes":"Notes",
+
+  "newInvoice_paymentMethod":"Payment method",
+  "newInvoice_exit":"Exit",
+  "newInvoice_generate":"Generate",
+
+  "newInvoice_notice_type":"Notice type",
+  "newInvoice_invoice_reference":"Reference to the invoice issued by the initial supply to which the credit or debit note relates",
+  "newInvoice_invoice_total_Amount":"The total amount of the invoice indicated",
+  "newInvoice_reason_issuing_notice":"The reason for issuing the notice is one of the following",
+
+
+  "invoice_columns_action":"Action",
+  "invoice_columns_totalAfterTax":"Total After Tax",
+  "invoice_columns_totalAmountAfterTaxes":"Total Amount After Taxes",
+  "invoice_columns_generalTaxAmount":"General Tax Amount",
+  "invoice_columns_generalTaxPercentage":"General Tax Percentage",
+  "invoice_columns_totalAmountAfterDiscount":"Total Amount After Discount",
+  "invoice_columns_discountAmount":"Discount Amount",
+  "invoice_columns_unitPrice":"Unit Price",
+  "invoice_columns_quantity":"Quantity",
+  "invoice_columns_subtotalAmount":"Sub Total Amount",
+  "invoice_columns_description":"description",
+  "invoice_columns_discountInvoiceAmount":"Discount Invoice Amount",
+  "invoice_columns_discountItemAmount":"Discount Item Amount",
+
+  "tax_rate_exempt":"exempt",
+  "type_options_item":"Item",
+  "type_options_service allowance":"Service Allowance",
+  "document_type_options_IDNumber":"The ID Number",
+  "document_type_options_private_number":"Personal Number",
+  "document_type_options_tax_number":"Tax Number",
+  "document_type_options_sales_hierarchy":"Sales Hierarchy",
+
+  "select_select":"Select",
+  "select_noChoices":"No Choices",
+
+
+  "invoice_modal_create_modify":"Create/Modify Invoice",
+  "invoice_modal_new_invoice":"New Invoice",
+  "invoice_modal_cash_invoice":"Cash Invoice",
+  "invoice_modal_receivable_invoice":"Receivable Invoice",
+  "invoice_modal_edit_invoice":"Modify invoice",
+
+  "login_form_validation_taxnumber":"Tax Number is required.",
+  "login_form_validation_username":"User Name is required.",
+  "login_form_validation_password":"Password is required.",
+
+  "register_form_validation_taxnumber":"Tax Number is required.",
+  "register_form_validation_username":"User Name is required.",
+  "register_form_validation_password":"Password is required.",
+
+  "user_modal_validation_username":"User Name is required.",
+  "user_modal_validation_password":"Password is required.",
+  "user_modal_validation_activitynumber":"Activity number is required.",
+
+  "device_modal_validation_devicename":"Device name required.",
+  "device_modal_validation_activitynumber":"Activity number is required.",
+
+
+  "view_invoice_total_invoice_value":"Total invoice value (excluding general tax)",
+  "view_invoice_discount_value":"discount value",
+  "view_invoice_Total_amount_general_tax":"Total amount of general tax",
+  "view_invoice_invoice_total":"Invoice Total",
+  "view_invoice_notes":"Notes",
+  "view_invoice_important_notes":"Very important note, please take it into account",
+  "view_invoice_cancel_invoice":"Cancel Invoice",
+  "view_invoice_cancel_exit":"Exit",
+  "view_invoice_print":"Print",
+
+  "view_invoice_Items_info":"Items Info",
+
+  "view_invoice_mainInfo_invoice":"Invoice",
+  "view_invoice_mainInfo_issue_date":" Invoice Issue Date",
+  "view_invoice_mainInfo_serialNumber":" Serial Number",
+  "view_invoice_mainInfo_VendorInvoiceNumber":"Vendor Invoice Number",
+
+  "view_invoice_usersInfo_sellerInfo":"Seller Info",
+  "view_invoice_usersInfo_postalCode":"Postal Code",
+  "view_invoice_usersInfo_phoneNumber":"Phone Number",
+  "view_invoice_usersInfo_city":"City",
+  "view_invoice_usersInfo_inputSourceSequence":"Input Source Sequence",
+  "view_invoice_usersInfo_taxNumber":"tax Number",
+  "view_invoice_usersInfo_name":"Name",
+  "view_invoice_usersInfo_buyerInfo":"Buyer Info",
+
+  "view_invoice_columns_action":"Action",
+  "view_invoice_columns_totalAmountAfterTaxes":"Total Amount After Taxes",
+  "view_invoice_columns_generalTaxAmount":"General Tax Amount",
+  "view_invoice_columns_generalTaxPercentage":"General Tax Percentage",
+  "view_invoice_columns_totalAmountAfterDiscount":"totalAmountAfterDiscount",
+  "view_invoice_columns_discountAmount":"Discount Amount",
+  "view_invoice_columns_subtotalAmount":"Total Amount",
+  "view_invoice_columns_unitPrice":"Unit Price",
+  "view_invoice_columns_quantity":"Quantity",
+  "view_invoice_columns_description":"Description",
+
+  "filter_modal_filter_options":"Filter options",
+  "filter_modal_notice_type":"Notice type",
+  "filter_modal_invoice_type":"Invoice type",
+  "filter_modal_input_source_sequence":"Input source sequence",
+  "filter_modal_date_to":"Date to",
+  "filter_modal_date_from":"Date from",
+  "filter_modal_invoice_status":"Invoice status",
+  "filter_modal_invoice_amount_to":"Invoice amount to",
+  "filter_modal_invoice_amount_from":"Invoice amount from",
+  "filter_modal_invoice_editor":"invoice editor",
+  "filter_modal_re_set":"Re set",
+  "filter_modal_filtering":"Filtering"
+
+}

@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/TahomaBold.ttf",
+      "sha1": "68d37782a8391dcf62e1301dbd1d1c127615409e"
+    },
+    {
+      "path": "src/assets/fonts/TahomaRegular.ttf",
+      "sha1": "707399c21bd883e0afe5d4e22aaf2c8452beeec2"
+    }
+  ]
+}

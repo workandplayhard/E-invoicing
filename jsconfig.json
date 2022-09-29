@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "stacks/*": ["./src/stacks/*"],
+      "screens/*": ["./src/screens/*"],
+      "components/*": ["./src/components/*"],
+      "hooks/*": ["./src/hooks/*"],
+      "assets/*": ["./src/assets/*"],
+      "config/*": ["./src/config/*"],
+      "store/*": ["./src/store/*"],
+      "helpers/*": ["./src/helpers/*"],
+      "constants/*": ["./src/constants/*"],
+      "api/*": ["./src/api/*"],
+      "locales/*": ["./src/locales/*"],
+      "context/*": ["./src/context/*"],
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

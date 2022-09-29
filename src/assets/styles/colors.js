@@ -1,0 +1,16 @@
+export const COLORS = {
+  dodgerBlue: '#339dff',
+  jaggedIce: '#c7deec',
+  concrete: '#f2f2f2',
+  mercury: '#e2e2e2',
+  white: '#fff',
+  black: '#2e3045',
+  tamarillo: '#a11d18',
+  silver: '#CCCCCC',
+  aquaSpring: '#F8FBFD',
+  shuttleGray: '#61656E',
+  silverChalice: '#ABAAAA',
+  red: '#FF0101',
+  whiteBlue: '#78BEFE40',
+  dustyGray: '#979797',
+};

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <g id="Group_223310" data-name="Group 223310" transform="translate(-1537 -767)">
+    <rect id="Rectangle_24735" data-name="Rectangle 24735" width="50" height="50" transform="translate(1537 767)" fill="none" opacity="0"/>
+    <g id="Paper" transform="translate(1540.75 767)">
+      <path id="Fill_3" data-name="Fill 3" d="M38.272,17.552c-1.129,0-2.624-.025-4.485-.025a8.341,8.341,0,0,1-8.273-8.34V1.148A1.139,1.139,0,0,0,24.383,0H11.159A11.223,11.223,0,0,0,0,11.272V38.21A11.731,11.731,0,0,0,11.674,50H31.366A11.189,11.189,0,0,0,42.5,38.755V18.677a1.132,1.132,0,0,0-1.131-1.145c-1.057.007-2.324.02-3.1.02" fill="#339dff" opacity="0.4"/>
+      <path id="Fill_1" data-name="Fill 1" d="M2.053.369A1.193,1.193,0,0,0,0,1.2V7.8a5.066,5.066,0,0,0,5.043,5.04c1.742.02,4.162.025,6.218.02a1.192,1.192,0,0,0,.858-2.02C9.48,8.094,4.758,3.179,2.053.369" transform="translate(29.407 1.05)" fill="#339dff" opacity="0.4"/>
+      <path id="Combined_Shape" data-name="Combined Shape" d="M1.861,16.209a1.862,1.862,0,0,1,0-3.724h13.61a1.862,1.862,0,0,1,0,3.724Zm0-12.487A1.861,1.861,0,1,1,1.861,0h8.462a1.861,1.861,0,1,1,0,3.721Z" transform="translate(11.825 19.747)" fill="#339dff"/>
+    </g>
+  </g>
+</svg>
